@@ -1,9 +1,9 @@
 ## 👋 Xin chào! Tôi là Phúc Tài
 
-💻 **Backend Developer | AI Engineer | IoT Enthusiast**  
-🎓 Sinh viên ngành Trí tuệ nhân tạo tại HUTECH  
-🚀 Hiện đang làm việc với: Node.js, Python, Flutter, Firebase, ESP32, ASP.NET Core  
-🔍 Yêu thích: Phát triển hệ thống AI thực tiễn, Computer Vision, IoT, bảo mật blockchain
+💻 **Backend Developer | AI Engineer | Custom AI Agent**  
+🎓 Sinh viên ngành Công nghệ phần mềm 
+🚀 LanguageCore: Node.js, Python, C++, Typescript, ASP.NET Core  
+🔍 Yêu thích: Phát triển hệ thống AI Agent, Computer Vision, NLP
 
 ---
 
@@ -29,9 +29,9 @@
 ---
 
 ### 📫 Liên hệ
-- Email: [phuchoangnguyen1223@gmail.com](mailto:phuchoangnguyen1223@gmail.com)
-- Facebook: [fb.com/phuctai220903](https://fb.com/phuctai220903)
-- LinkedIn: _điền nếu có_
+- Email: [phuctai.blc@gmail.com](mailto:phuchoangnguyen1223@gmail.com)
+- Facebook: [fb.com/phuctaipinky](https://fb.com/phuctai220903)
+- LinkedIn: [_điền nếu có_](https://www.linkedin.com/in/phuctaiblc)
 
 ---
 
